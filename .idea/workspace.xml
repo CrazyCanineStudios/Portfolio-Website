@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41c5d340-a0f2-4ddc-b7d4-e56a3ce23d2f" name="Default Changelist" comment="" />
+    <list default="true" id="5a08128b-65c4-4fca-af7d-60b388a16b74" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,29 +10,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1X7B859Oapq0u5iMnMC55nCBVSf" />
+  <component name="ProjectId" id="1a2PfrWddQp6XhOgLb3ZPbwKtBH" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="http.proxy" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\B00302185_A1_Website\images\production" />
+      <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\js" />
+      <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\portfolio" />
+      <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\B00302185_A1_Website\assets" />
-      <recent name="D:\B00302185_A1_Website\images" />
-      <recent name="D:\B00302185_A1_Website" />
-      <recent name="E:\B00302185_A1_Website" />
-      <recent name="E:\University of the West of Scotland\JetBrains Projects\B00302185_A1_Website" />
+      <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\js" />
+      <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\images" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -52,29 +49,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="41c5d340-a0f2-4ddc-b7d4-e56a3ce23d2f" name="Default Changelist" comment="" />
-      <created>1580308562081</created>
+      <changelist id="5a08128b-65c4-4fca-af7d-60b388a16b74" name="Default Changelist" comment="" />
+      <created>1585930821303</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1580308562081</updated>
-      <workItem from="1580308563237" duration="4899000" />
-      <workItem from="1580314189643" duration="1593000" />
-      <workItem from="1580387096602" duration="851000" />
-      <workItem from="1580392128406" duration="7518000" />
-      <workItem from="1580400188330" duration="616000" />
-      <workItem from="1580415203085" duration="693000" />
-      <workItem from="1580478206561" duration="3840000" />
-      <workItem from="1581364914775" duration="171000" />
-      <workItem from="1581433746710" duration="17341000" />
-      <workItem from="1581512046316" duration="6648000" />
-      <workItem from="1581623805220" duration="13979000" />
-      <workItem from="1581639529504" duration="384000" />
-      <workItem from="1585590841247" duration="952000" />
-      <workItem from="1585668977763" duration="2198000" />
-      <workItem from="1585763328034" duration="1853000" />
-      <workItem from="1585821821738" duration="7710000" />
-      <workItem from="1585922111222" duration="915000" />
-      <workItem from="1585923034957" duration="1259000" />
+      <updated>1585930821303</updated>
+      <workItem from="1585930822449" duration="1391000" />
+      <workItem from="1585932229528" duration="3941000" />
     </task>
     <servers />
   </component>
@@ -82,22 +63,9 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2633" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580396845557">
+    <state x="2639" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585931793062">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2633" y="324" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1580396845557" />
-    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581635423652">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1581635423652" />
-    <state x="591" y="65" width="737" height="909" key="find.popup" timestamp="1581437801594">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="591" y="65" width="737" height="909" key="find.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1581437801594" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1581628323371">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="616" y="240" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1581628323371" />
-    <state x="2536" y="240" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1580396328594" />
+    <state x="2639" y="324" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585931793062" />
   </component>
 </project>
