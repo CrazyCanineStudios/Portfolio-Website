@@ -19,18 +19,19 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/js" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\University of the West of Scotland\JetBrains Projects\GitHub\Portfolio\Portfolio-Website\js" />
-      <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\js" />
-      <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\images" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\js" />
       <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\img\portfolio" />
       <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\University of the West of Scotland\JetBrains Projects\GitHub\Portfolio\Portfolio-Website\css" />
+      <recent name="E:\University of the West of Scotland\JetBrains Projects\GitHub\Portfolio\Portfolio-Website\js" />
+      <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\js" />
+      <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\images" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -57,7 +58,9 @@
       <updated>1585930821303</updated>
       <workItem from="1585930822449" duration="1391000" />
       <workItem from="1585932229528" duration="3941000" />
-      <workItem from="1585936229297" duration="2844000" />
+      <workItem from="1585936229297" duration="3210000" />
+      <workItem from="1585940154504" duration="3172000" />
+      <workItem from="1586173968675" duration="1731000" />
     </task>
     <servers />
   </component>
