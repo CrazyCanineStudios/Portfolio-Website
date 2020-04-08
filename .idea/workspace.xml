@@ -19,7 +19,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -28,10 +28,11 @@
       <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\University of the West of Scotland\JetBrains Projects\GitHub\Portfolio\Portfolio-Website\assets\img" />
+      <recent name="E:\University of the West of Scotland\JetBrains Projects\GitHub\Portfolio\Portfolio-Website" />
       <recent name="E:\University of the West of Scotland\JetBrains Projects\GitHub\Portfolio\Portfolio-Website\css" />
       <recent name="E:\University of the West of Scotland\JetBrains Projects\GitHub\Portfolio\Portfolio-Website\js" />
       <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\js" />
-      <recent name="C:\Users\Admin\Downloads\startbootstrap-freelancer-gh-pages\startbootstrap-freelancer-gh-pages\assets\images" />
     </key>
   </component>
   <component name="ServiceViewManager">
@@ -60,7 +61,9 @@
       <workItem from="1585932229528" duration="3941000" />
       <workItem from="1585936229297" duration="3210000" />
       <workItem from="1585940154504" duration="3172000" />
-      <workItem from="1586173968675" duration="1731000" />
+      <workItem from="1586173968675" duration="9770000" />
+      <workItem from="1586259141231" duration="2472000" />
+      <workItem from="1586345512891" duration="18126000" />
     </task>
     <servers />
   </component>
@@ -72,13 +75,13 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2639" y="324" key="#com.intellij.fileTypes.FileTypeChooser/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1585931793062" />
-    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1585938710116">
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586349078971">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585938710116" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1585938497050">
+    <state x="690" y="268" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586349078971" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1586374080617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1585938497050" />
+    <state x="616" y="240" key="run.anything.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1586374080617" />
   </component>
 </project>

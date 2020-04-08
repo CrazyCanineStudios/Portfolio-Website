@@ -8,12 +8,6 @@
         <title>Kenneth Yorke - Game Programmer</title>
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.12.1/js/all.js" crossorigin="anonymous"></script>
-        <script src="js/jquery.min.js"></script>
-        <script src="js/jquery.scrolly.min.js"></script>
-        <script src="js/jquery.poptrox.min.js"></script>
-        <script src="js/skel.min.js"></script>
-        <script src="js/util.js"></script>
-        <script src="js/main.js"></script>
         <!-- Google fonts-->
         <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
         <link href="https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
@@ -22,46 +16,66 @@
     </head>
     <body id="page-top">
         <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg bg-secondary text-uppercase fixed-top" id="mainNav">
+        <nav class="navbar navbar-expand-lg bg-blue text-uppercase fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand js-scroll-trigger" href="#page-top">Kenneth Yorke</a><button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">Menu <i class="fas fa-bars"></i></button>
+                <a class="navbar-brand js-scroll-trigger" href="index.html">Kenneth Yorke</a><button class="navbar-toggler navbar-toggler-right text-uppercase font-weight-bold bg-primary text-white rounded" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">Menu <i class="fas fa-bars"></i></button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ml-auto">
-                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Portfolio</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#about">About</a></li>
+                        <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#portfolio">Portfolio</a></li>
                         <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded js-scroll-trigger" href="#contact">Contact</a></li>
                     </ul>
                 </div>
             </div>
         </nav>
-        <!-- The Banner Image  -->
-        <div style="min-height: 678.3px;">
-            <div style="z-index: -1; top: 0px; left: 0px; bottom: 0px; right: 0px; overflow: hidden; background-size: cover; background-color: transparent; background-repeat: no-repeat; background-position: 50% 50%; background-image: none;">
-                <video class="embed-responsive" style="margin: auto; position: absolute; z-index: -1; top: 30%; left: 50%; transform: translate(-50%, -50%); visibility: visible; opacity: 1; width: 1905px; height: auto;" playsinline autoplay loop muted >
-                    <source type="video/mp4" src="assets/img/portfolio/intro.mp4">
-                </video>
-            </div>
-
-        </div>
-
-        <!-- About Section-->
-        <section class="page-section bg-primary text-white mb-0" id="about">
+        <!-- Masthead-->
+        <header id="bannerHolder" class="masthead text-white text-center">
+                    <video id="videoBG" class="embed-responsive " style="z-index: -1;   visibility: visible; opacity: 1; background-color: #5a5dc1; object-fit: contain; " playsinline autoplay loop muted >
+                        <source type="video/mp4" src="assets/img/portfolio/intro.mp4">
+                    </video>
+        </header>
+        <section class="bg-secondary text-white mb-0" style="padding: 3rem 0;" id="about">
             <div class="container text-center">
-                <!-- About Section Heading-->
-                <h2 class="page-section-heading text-center text-uppercase text-white">About Me</h2>
-                    <img style="padding-top: 2em;" src="assets/img/kenneth_portrait.png" alt="" />
-                <p>C# Game Programmer - Unity Engine</p>
-                <!-- Icon Divider-->
+                <h2 >Hello, I'm Kenneth.<span><strong> I’m a Gameplay Programmer</strong>.</span></h2>
                 <div class="divider-custom divider-light">
                     <div class="divider-custom-line"></div>
                     <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                     <div class="divider-custom-line"></div>
                 </div>
-                <div class="ml-auto text-center"><p class="lead">Hello there, My name's Kenneth. I'm an aspiring Games Programmer currently studying Computer Games Development at the University of the West of Scotland. Over my time at University, I've developed many different types of games and software using programming languages such as C# and JavaScript. I also have a lot of experience using a variety of different Game Engines such as GameMaker Studio, Phaser and Unity Engine and am always eager to learn and adapt to new software and languages.</p></div>
+            </div>
+            <div class="container text-center">
+                <div class="ml-auto text-center">
+                    <p class="lead">I am currently a “Computer Games Development” student at the University of the West of Scotland and am on track to graduate with a first class distinction this June. <br><br> I am comfortable in all areas of games development such as level design, game design and project management although I specialise as a gameplay programmer. I strive to write high quality, efficient and modular code to create game functionality such as character movement, advanced camera systems and interactable game objects..</p>
+                    <p class="lead">I am confident in programming game functionality using C# for any kind of game project. I have an excellent understanding of the object-orientated programming principles such as polymorphism, inheritance and encapsulation. I am confident in the readability and effectiveness of my code and ensure all my scripts are optimised and memory efficient. </p>
+                    <p class="lead">I take pride in my ability to meet deadlines and work very hard to ensure everything is completed to a high standard and before the deadline. This involves strictly adhering to development methodologies such as Agile or Scrum. I take criticism well and am always eager to learn more and improve my skills. Over the years I have used a variety of software to create games and software
+</p>
+                </div>
+                <h2>Software Proficency</h2>
+                <div class="row" style="padding: 2em;">
+                    <!-- Portfolio Item 1-->
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="portfolio-item mx-auto" >
+                            <img src="assets/img/unity.png" alt=""  width="60" height="60">
+                            <div class="text"><p>Unity Engine</p></div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="portfolio-item mx-auto" >
+                            <img src="assets/img/unreal.png" alt=""  width="60" height="60">
+                            <div class="text"><p>Unreal Engine</p></div>
+                        </div>
+                    </div>
+                    <div class="col-md-6 col-lg-4 mb-5">
+                        <div class="portfolio-item mx-auto" >
+                            <img src="assets/img/photoshop.png" alt=""  width="60" height="60">
+                            <div class="text"><p>Adobe Photoshop CC</p></div>
+                        </div>
+                    </div>
+                </div>
+                <h2>Showreel </h2>
                 <iframe style="padding-top: 2em;" class="embed-responsive" width="918" height="462" src="https://www.youtube.com/embed/7zxZzN_7Ywc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
         </section>
-
         <!-- Portfolio Section-->
         <section style="background-color:#1064ab;" class="page-section portfolio" id="portfolio">
             <div class="container">
@@ -106,7 +120,6 @@
             </div>
         </section>
 
-
         <!-- Contact Section-->
         <section class="page-section" id="contact">
             <div class="container">
@@ -133,7 +146,7 @@
             <a class="js-scroll-trigger d-block text-center text-white rounded" href="#page-top"><i class="fa fa-chevron-up"></i></a>
         </div>
         <!-- Portfolio Modals--><!-- Portfolio Modal 1-->
-        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-labelledby="portfolioModal1Label" aria-hidden="true">
+        <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-labelledby="portfolioModal1Label" aria-hidden="true" id="myModal">
             <div class="modal-dialog modal-xl" role="document">
                 <div class="modal-content">
                     <button class="close" type="button" data-dismiss="modal" aria-label="Close">
@@ -151,7 +164,7 @@
                                         <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
                                         <div class="divider-custom-line"></div>
                                     </div>
-                                    <iframe  style="padding-bottom: 2em" class = "embed-responsive" width="918" height="461" src="https://www.youtube.com/embed/EnkiQcjJs3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                    <iframe style="padding-bottom: 2em" class = "embed-responsive" width="918" height="461" src="https://www.youtube.com/embed/EnkiQcjJs3w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                     <p class="mb-5">The game is a 3D Platformer collect-a-thon game about a sausage obsessed dog.  The game was built from scratch in Unity using a Rigidbody physics system instead of the character controller system used for Benji's Ex-seal-ent Adventure. This systems allows for the character to interact with the world by carrying, pushing and pulling boxes and makes the game feel more alive.</p>
                                     <button class="btn btn-primary" href="#" data-dismiss="modal"><i class="fas fa-times fa-fw"></i>Close Window</button>
                                 </div>
