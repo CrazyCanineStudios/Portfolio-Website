@@ -393,7 +393,8 @@ h6, .h6 {
 }
 
 .lead {
-  font-size: 1.25rem;
+  text-align: justify-all !important;
+  font-size: 1.5rem;
   font-weight: 300;
 }
 
@@ -6078,7 +6079,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #5a5dc1 !important;
+  background-color: #5543ca !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -9661,7 +9662,7 @@ button.bg-dark:focus {
 }
 
 .text-justify {
-  text-align: justify !important;
+  text-align: justify-all;
 }
 
 .text-wrap {
@@ -9687,7 +9688,7 @@ button.bg-dark:focus {
 }
 
 .text-center {
-  text-align: center !important;
+  text-align: center;
 }
 
 @media (min-width: 576px) {
@@ -10260,7 +10261,7 @@ form .row:first-child .floating-label-form-group {
 }
 @media (min-width: 288px) {
   #bannerHolder {
-    min-height: 30vh;
+    min-height: 40vh;
   }
 }
 @media (min-width: 576px) {
@@ -10298,9 +10299,20 @@ img, .text{
 }
 .text{
   display:inline-block;
+  min-width: 120px;
 }
 p{
   margin:1em;
+}
+h3
+{
+  padding-bottom: 0.5em;
+  padding-top: 0.5em;
+}
+.animation-slide
+{
+  -webkit-animation: slideIn 5s;
+  animation: slideIn 5s;
 }
 
 
