@@ -6079,7 +6079,7 @@ button.bg-primary:focus {
 }
 
 .bg-secondary {
-  background-color: #5543ca !important;
+  background-color: #474096 !important;
 }
 
 a.bg-secondary:hover, a.bg-secondary:focus,
@@ -10313,6 +10313,10 @@ h3
 {
   -webkit-animation: slideIn 5s;
   animation: slideIn 5s;
+}
+.videoWrapper {
+  width:560px;
+  height:349px;
 }
 
 
