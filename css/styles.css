@@ -2459,29 +2459,29 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #1abc9c;
-  border-color: #1abc9c;
+  background-color: #782eda;
+  border-color: #782eda;
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #159a80;
-  border-color: #148f77;
+  background-color: #582caf;
+  border-color: #582caf;
 }
 .btn-primary:focus, .btn-primary.focus {
   color: #fff;
-  background-color: #159a80;
-  border-color: #148f77;
-  box-shadow: 0 0 0 0.2rem rgba(60, 198, 171, 0.5);
+  background-color: #582caf;
+  border-color: #582caf;
+  box-shadow: 0 0 0 0.2rem rgba(120, 46, 218, 0.5);
 }
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #1abc9c;
-  border-color: #1abc9c;
+  background-color: #782eda;
+  border-color: #782eda;
 }
 .btn-primary:not(:disabled):not(.disabled):active, .btn-primary:not(:disabled):not(.disabled).active, .show > .btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #148f77;
-  border-color: #12846e;
+  background-color: #782eda;
+  border-color: #782eda;
 }
 .btn-primary:not(:disabled):not(.disabled):active:focus, .btn-primary:not(:disabled):not(.disabled).active:focus, .show > .btn-primary.dropdown-toggle:focus {
   box-shadow: 0 0 0 0.2rem rgba(60, 198, 171, 0.5);
@@ -10038,14 +10038,15 @@ h3 {
 .btn-xl {
   padding: 1rem 1.75rem;
   font-size: 1.25rem;
+  margin-top: 1em;
 }
 
 .btn-social {
   border-radius: 100%;
   display: inline-flex;
-  width: 3.25rem;
-  height: 3.25rem;
-  font-size: 1.25rem;
+  width: 5rem;
+  height: 5rem;
+  font-size: 2rem;
   justify-content: center;
   align-items: center;
 }
@@ -10252,7 +10253,7 @@ form .row:first-child .floating-label-form-group {
 }
 
 .copyright {
-  background-color: #1a252f;
+  background-color:#782eda;
 }
 
 #bannerHolder
@@ -10284,8 +10285,8 @@ form .row:first-child .floating-label-form-group {
 }
 @media (min-width: 1200px) {
   #bannerHolder {
-    min-height: 70vh;
-  }
+    min-height: 80vh;
+}
 }
 
 #bannerHolder video
@@ -10295,7 +10296,7 @@ form .row:first-child .floating-label-form-group {
   min-width: 100%;
   position: absolute;
   top: 50%;
-  transform: translate(-50%, -70%);
+  transform: translate(-50%, -60%);
 }
 img, .text{
   vertical-align:top;
