@@ -9798,7 +9798,10 @@ a.text-primary:hover, a.text-primary:focus {
 a.text-secondary:hover, a.text-secondary:focus {
   color: #11181f !important;
 }
-
+h2.text-secondary
+{
+  text-shadow:none;
+}
 .text-success {
   color: #28a745 !important;
 }
@@ -10317,6 +10320,18 @@ h3
 .videoWrapper {
   width:560px;
   height:349px;
+}
+.static {
+  position:absolute;
+  background: white;
+}
+
+.static:hover {
+  opacity:0;
+}
+img.resize {
+  width:900px; /* you can use % */
+  height: 650px;
 }
 
 
