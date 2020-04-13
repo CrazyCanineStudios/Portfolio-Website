@@ -10332,7 +10332,6 @@ h3
 }
 body, html {
   height: 100%;
-  text-align: center;
 }
 
 body {
@@ -10421,6 +10420,29 @@ body {
   position: fixed;
   border: 4px solid #Fff;
   animation: loader 2s infinite ease;
+}
+
+/* Animation */
+.typewriter {
+  border-right: solid 3px rgba(255, 255, 255, 0.75);
+  white-space: nowrap;
+  overflow: hidden;
+  animation: animated-text 4s steps(29,end) 1s 1 normal both,
+  animated-cursor 600ms steps(29,end) 5s 1 normal both;
+}
+
+/* text animation */
+
+@keyframes animated-text{
+  from{width: 0;}
+  to{width: 472px;}
+}
+
+/* cursor animations */
+
+@keyframes animated-cursor{
+  from{border-right-color: rgba(255, 255, 255, 0.75);}
+  to{border-right-color: transparent;}
 }
 
 
