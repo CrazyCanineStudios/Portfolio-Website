@@ -10306,7 +10306,7 @@ img, .text{
   min-width: 120px;
 }
 p{
-  margin:1em;
+  /* margin:1em; */
 }
 h3
 {
