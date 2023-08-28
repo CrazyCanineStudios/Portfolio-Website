@@ -10445,6 +10445,21 @@ body {
   to{border-right-color: transparent;}
 }
 
+.software-item 
+{
+  margin-left: 1em;
+  margin-top: 1em;
+}
+.video-container 
+{
+  border-radius: 3em; /* Adjust the value to control the amount of rounding */
+  overflow: hidden; /* Ensure content inside the container doesn't overflow */
+  padding-right: 0em;
+  padding-left: 0em;
+}
+
+
+
 
 
 
