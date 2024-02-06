@@ -10457,8 +10457,33 @@ body {
   padding-right: 0em;
   padding-left: 0em;
 }
-
-
+.bullet-list {
+  padding: 0;
+  width: 100%;
+  overflow: hidden;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between; /* Distribute items evenly */
+  list-style: none;
+}
+.bullet-list li {
+  width: calc(33.33% - 10px);
+  margin-bottom: 10px;
+  text-align: left;
+  padding-left: 15px;
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.bullet-list li::before {
+  content: "•";
+  margin-right: 5px;
+}
+.bullet-list .centered {
+  width: 100%; /* Make the last item occupy full width */
+  text-align: center; /* Center the content */
+  justify-content: center; /* Center content horizontally */
+}
 
 
 
