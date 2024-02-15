@@ -75,8 +75,12 @@ body {
 
 hr {
   box-sizing: content-box;
-  height: 0;
-  overflow: visible;
+  /*height: 0;*/
+  /*overflow: visible;*/
+  margin: 2em 0;
+  border: 0; /* Removes the default border */
+  height: 2px; /* Sets the height of the line */
+  background-color: #ffffff; /* Sets the color of the line */
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -377,15 +381,15 @@ h2, .h2 {
 }
 
 h3, .h3 {
-  font-size: 1.75rem;
-}
-
-h4, .h4 {
   font-size: 1.5rem;
 }
 
-h5, .h5 {
+h4, .h4 {
   font-size: 1.25rem;
+}
+
+h5, .h5 {
+  font-size: 1rem;
 }
 
 h6, .h6 {
@@ -395,7 +399,6 @@ h6, .h6 {
 .lead {
   text-align: justify-all !important;
   font-size: 1.5rem;
-  font-weight: 300;
 }
 
 .display-1 {
@@ -423,8 +426,8 @@ h6, .h6 {
 }
 
 hr {
-  margin-top: 1rem;
-  margin-bottom: 1rem;
+  /*margin-top: 1rem;*/
+  /*margin-bottom: 1rem;*/
   border: 0;
   border-top: 0.125rem solid rgba(0, 0, 0, 0.1);
 }
@@ -9990,7 +9993,7 @@ h3 {
   }
 }
 .page-section {
-  padding: 6rem 0;
+  padding: 3rem 0;
 }
 .page-section .page-section-heading {
   font-size: 2.25rem;
@@ -10452,7 +10455,7 @@ body {
 }
 .video-container 
 {
-  border-radius: 3em; /* Adjust the value to control the amount of rounding */
+  border-radius: 1em; /* Adjust the value to control the amount of rounding */
   overflow: hidden; /* Ensure content inside the container doesn't overflow */
   padding-right: 0em;
   padding-left: 0em;
@@ -10485,6 +10488,16 @@ body {
   justify-content: center; /* Center content horizontally */
 }
 
+.portfolio-section-item {
+  background-color: #abcdef; /* Your desired background color */
+  background-size:auto; /* Cover the entire section without tiling */
+  background-repeat: no-repeat; /* Prevent image tiling */
+}
+li{
+  font-size: 1.3rem;
+  padding: 5px; /* Adds space inside the list items */
+  margin-bottom: 5px; /* Adds space between the list items */
+}
 
 
 
